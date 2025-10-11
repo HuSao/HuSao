@@ -30,6 +30,10 @@ So, I decided to build one myself. And that’s how **WheelPage** was born.
 
 [**Spin the Wheel →**](https://wheelpage.com/)  
 
+[**转盘 →**](https://wheelpage.com/zh/)
+
+[**Ruleta Aleatoria →**](https://wheelpage.com/es/)  
+
 Whether it’s for fun, decision-making, or interactive events, WheelPage turns ordinary choices into a little moment of excitement.  
 
 ---
