@@ -47,7 +47,26 @@ Whether it’s for fun, decision-making, or interactive events, WheelPage turns 
 
 ## 💌 Connect With Me
 
-- Website: [WheelPage](https://wheelpage.com/)  
+- Website: [WheelPage](https://wheelpage.com/)
+
+## 🌱 Projects
+
+### 🎡 WheelPage
+A collection of simple random decision tools for spinning wheels, flipping coins, rolling dice, and more.
+
+[Visit WheelPage →](https://wheelpage.com/)
+
+### ⚡ PickTests
+A collection of lightweight browser tests for reaction time, memory, focus, attention, and aim.
+
+[Explore PickTests →](https://picktests.com/)
+
+Try the [Reaction Time Test](https://picktests.com/reaction-time-test/).
+
+### 🧁 2048 Cupcakes
+A themed 2048 game collection built around cupcakes, characters, and familiar 2048 mechanics.
+
+[Play 2048 Cupcakes →](https://2048cupcakes.games/)
 
 ---
 
